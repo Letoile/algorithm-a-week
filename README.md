@@ -8,5 +8,7 @@ Trying to write one algorithm in Python a week. Starts from very simple things t
 N.B. Don't forget about unit tests
 
 **week1** — Bubble Sort
+
 **week2** — Exponentiation by squaring
+
 **week3** — Fast tree factorization
